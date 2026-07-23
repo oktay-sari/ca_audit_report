@@ -1,0 +1,7 @@
+*.xlsx
+*.html
+ca-name-cache.json
+mypolicies/
+cabaseline202510-main/
+.DS_Store
+generated-policies/

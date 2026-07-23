@@ -1,0 +1,11 @@
+{
+  "_comment": "SYNTHETIC test fixture - fabricated GUIDs and names, no real tenant data. Mirrors the IntuneManagement MigrationTable.json shape so the -CompanionFile / auto-detect feature has offline sample data to resolve. GUIDs match the sanitized sample-data policy exports.",
+  "TenantId": "00000000-0000-0000-0000-000000000000",
+  "Objects": [
+    { "DisplayName": "SG-Sample-All-Staff", "Id": "a1b2c3d4-e5f6-7890-abcd-000000000002", "Type": "Group" },
+    { "DisplayName": "SG-Sample-Break-Glass", "Id": "a1b2c3d4-e5f6-7890-abcd-000000000003", "Type": "Group" },
+    { "DisplayName": "SG-Sample-CA-Exclusions", "Id": "a1b2c3d4-e5f6-7890-abcd-000000000004", "Type": "Group" },
+    { "DisplayName": "SG-Sample-Service-Accounts", "Id": "a1b2c3d4-e5f6-7890-abcd-000000000005", "Type": "Group" },
+    { "DisplayName": "SG-Sample-Guest-Sponsors", "Id": "a1b2c3d4-e5f6-7890-abcd-000000000006", "Type": "Group" }
+  ]
+}
